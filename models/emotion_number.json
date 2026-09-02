@@ -1,0 +1,19 @@
+{
+  "emotion_to_number": {
+    "anger": 0,
+    "fear": 1,
+    "joy": 2,
+    "love": 3,
+    "sadness": 4,
+    "surprise": 5
+  },
+  "number_to_emotion": {
+    "0": "anger",
+    "1": "fear",
+    "2": "joy",
+    "3": "love",
+    "4": "sadness",
+    "5": "surprise"
+  },
+  "accuracy": 0.86375
+}
